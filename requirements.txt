@@ -1,0 +1,12 @@
+diffusers==0.20.1
+pillow
+omegaconf
+transformers
+einops
+tqdm
+opencv-python
+accelerate
+imageio
+imageio-ffmpeg
+timm
+av

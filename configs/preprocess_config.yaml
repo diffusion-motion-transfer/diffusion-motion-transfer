@@ -1,0 +1,8 @@
+video_path: data/locomotive
+save_dir: data/locomotive/ddim_latents
+max_number_of_frames: 24
+
+n_timesteps: 999
+prompt: Amazing quality, masterpiece, A locomotive rides in a forest
+negative_prompt: ""
+save_ddim_reconstruction: False

@@ -1,0 +1,9 @@
+edit_video_path: results/locomotive_car/result.mp4
+original_video_path: data/locomotive/ddim_latents/original.mp4
+output_path: results/locomotive_car
+
+# foreground mask of the first frame to calculate trajectories only on the foreground
+use_mask: False
+mask_path: null
+
+cotracker_model_path: cotracker_stride_4_wind_8.pth
